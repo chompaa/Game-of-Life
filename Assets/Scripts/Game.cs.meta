@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cafe733e92559ea40bc86c209373255e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCamera: {instanceID: 0}
+  - sprite: {fileID: 7482667652216324306, guid: d25ebc848f98a0d4aaf0c57ea6d54981, type: 3}
+  - cell: {fileID: 2429545106055665742, guid: c40428bd166543a48aefb5629a123dad, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
